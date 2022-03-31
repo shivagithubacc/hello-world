@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Jenkins Server </h1>
+<h1> Hello, Welcome to Jenkins Servers </h1>
 
